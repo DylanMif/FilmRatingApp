@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "FilmRatingApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "FilmRatingApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
